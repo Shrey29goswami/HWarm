@@ -27,11 +27,11 @@ import {
   Search
 } from 'lucide-react';
 
-const HOST_NUMBER = "919876543210";
-const EVENT_DATE = "10 May 2026";
-const EVENT_TIME = "10:00 AM";
-const MAP_URL = "https://maps.google.com/?q=YourLocation";
-const EMBED_MAP_URL = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.3142270054714!2d77.5844444!3d12.9711111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTLCsDU4JzE2LjAiTiA3N8KwMzUnMDQuMCJF!5e0!3m2!1sen!2sin!4v1620000000000!5m2!1sen!2sin";
+const HOST_NUMBER = "9795862104";
+const EVENT_DATE = "30 April 2026";
+const EVENT_TIME = "6:00 PM";
+const MAP_URL = "https://maps.app.goo.gl/csmo8wPDbXgErJnL7";
+const EMBED_MAP_URL = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.8032061027566!2d77.56565507367758!3d13.111649987216724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1900b4a8b13d%3A0x861a7593e7901d70!2sLandcapital%20Calista!5e0!3m2!1sen!2sin!4v1777374775176!5m2!1sen!2sin";
 
 // --- Types ---
 interface Guest {
@@ -331,7 +331,7 @@ export default function App() {
             <div className="p-10 md:p-16 bg-black/40 backdrop-blur-md rounded-[3rem] border border-white/10 relative overflow-hidden group shadow-[0_50px_100px_-20px_rgba(0,0,0,0.5)]">
               <span className="absolute -top-6 -left-6 text-9xl text-white/5 font-serif select-none italic">{"\""}</span>
               <p className="text-2xl md:text-4xl text-white/90 italic leading-[1.5] relative z-10 font-serif font-light">
-                A home is made of walls and beams, but a home is built with your love and blessings.
+                A home is made of walls and beams, but a Memorable home is built with your presence and blessings.
               </p>
               <span className="absolute -bottom-16 -right-6 text-9xl text-white/5 font-serif select-none italic">{"\""}</span>
             </div>
